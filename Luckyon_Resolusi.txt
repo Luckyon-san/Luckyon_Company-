@@ -1,3 +1,4 @@
 Lucyon company resulusi
 -porfolio
 -membuat website BKuPro
+-bekerja seagai frontend dev
